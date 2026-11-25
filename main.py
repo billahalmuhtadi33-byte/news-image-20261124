@@ -2,11 +2,11 @@
 """Sum up 24 November 2026's world news in one image.
 
 The entry image is entry.png beside this file: a newspaper front page
-titled THE WORLD, dated Tuesday 24 November 2026, with five stories:
-the Houthi strike on Riyadh's tallest tower, the overnight strike on
-Zaporizhzhia in Ukraine, the drone attack on a Russian warship in
-Benghazi port, NATO's vow to defend space, and Senegal reinstated as
-Africa Cup of Nations champions.
+titled THE WORLD, dated Tuesday 24 November 2026, with 35 stories:
+13 numbered lead panels with illustrations plus 22 more in
+"ALSO ON TUESDAY", covering 9 regions, with a real world map
+(Natural Earth data) and a status key (CLAIM / CONFIRMED / OFFICIAL /
+REPORTED) explaining how each story was verified.
 
 This program deterministically copies that image to /output/entry.png
 (or $MAKEFUN_OUTPUT_DIR/entry.png when set). No network, no randomness:
